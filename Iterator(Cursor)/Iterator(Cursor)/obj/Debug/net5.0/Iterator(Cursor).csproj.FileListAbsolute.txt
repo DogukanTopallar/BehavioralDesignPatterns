@@ -13,3 +13,4 @@ C:\Users\Dogukan\source\repos\C#\Yüksek Lisans\İleri Yazılım Mühendisliği\
 C:\Users\Dogukan\source\repos\C#\Yüksek Lisans\İleri Yazılım Mühendisliği\BehavioralDesignPatterns\Iterator(Cursor)\Iterator(Cursor)\obj\Debug\net5.0\ref\Iterator(Cursor).dll
 C:\Users\Dogukan\source\repos\C#\Yüksek Lisans\İleri Yazılım Mühendisliği\BehavioralDesignPatterns\Iterator(Cursor)\Iterator(Cursor)\obj\Debug\net5.0\Iterator(Cursor).pdb
 C:\Users\Dogukan\source\repos\C#\Yüksek Lisans\İleri Yazılım Mühendisliği\BehavioralDesignPatterns\Iterator(Cursor)\Iterator(Cursor)\obj\Debug\net5.0\Iterator(Cursor).genruntimeconfig.cache
+C:\Users\Dogukan\source\repos\C#\Yüksek Lisans\İleri Yazılım Mühendisliği\BehavioralDesignPatterns\Iterator(Cursor)\Iterator(Cursor)\obj\Debug\net5.0\Iterator(Cursor).csproj.AssemblyReference.cache
